@@ -1,0 +1,182 @@
+[
+  {
+    "cliente": "Anna Cecília de Moura Tonon",
+    "whatsapp": "5555981524797",
+    "evento": "Aniversário de 1 ano de Amábile Heloísa",
+    "data_evento": "17/04/2027",
+    "valor_total": "R$ 1.300,00",
+    "parcelas": [
+      {
+        "numero": 1,
+        "vencimento": "13/09/2026",
+        "valor": "R$ 325,00",
+        "status": "pago"
+      },
+      {
+        "numero": 2,
+        "vencimento": "15/01/2027",
+        "valor": "R$ 325,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 3,
+        "vencimento": "15/02/2027",
+        "valor": "R$ 325,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 4,
+        "vencimento": "15/03/2027",
+        "valor": "R$ 325,00",
+        "status": "pendente"
+      }
+    ]
+  },
+  {
+    "cliente": "Daniela / Leandro Hundertmarck",
+    "whatsapp": "5555996197713",
+    "evento": "15 Anos Maria Eduarda",
+    "data_evento": "06/03/2027",
+    "valor_total": "R$ 1.880,00",
+    "parcelas": [
+      {
+        "numero": 1,
+        "vencimento": "Entrada",
+        "valor": "R$ 1.000,00",
+        "status": "pago"
+      },
+      {
+        "numero": 2,
+        "vencimento": "05/01/2027",
+        "valor": "R$ 293,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 3,
+        "vencimento": "05/02/2027",
+        "valor": "R$ 293,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 4,
+        "vencimento": "05/03/2027",
+        "valor": "R$ 293,00",
+        "status": "pendente"
+      }
+    ]
+  },
+  {
+    "cliente": "Jessyka Arruda da Cunha",
+    "whatsapp": "5555996508142",
+    "evento": "Aniversário de 1 ano de Antonella",
+    "data_evento": "20/02/2027",
+    "valor_total": "R$ 1.350,00",
+    "parcelas": [
+      {
+        "numero": 1,
+        "vencimento": "10/08/2026",
+        "valor": "R$ 450,00",
+        "status": "pago"
+      },
+      {
+        "numero": 2,
+        "vencimento": "10/01/2027",
+        "valor": "R$ 450,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 3,
+        "vencimento": "10/02/2027",
+        "valor": "R$ 450,00",
+        "status": "pendente"
+      }
+    ]
+  },
+  {
+    "cliente": "Júlia Melo Charão",
+    "whatsapp": "5555991334062",
+    "evento": "Aniversário de 1 ano de Mabel",
+    "data_evento": "06/03/2027",
+    "valor_total": "R$ 1.300,00",
+    "parcelas": [
+      {
+        "numero": 1,
+        "vencimento": "07/11/2026",
+        "valor": "R$ 500,00",
+        "status": "pago"
+      },
+      {
+        "numero": 2,
+        "vencimento": "05/12/2026",
+        "valor": "R$ 200,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 3,
+        "vencimento": "05/01/2027",
+        "valor": "R$ 200,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 4,
+        "vencimento": "05/02/2027",
+        "valor": "R$ 200,00",
+        "status": "pendente"
+      },
+      {
+        "numero": 5,
+        "vencimento": "05/03/2027",
+        "valor": "R$ 200,00",
+        "status": "pendente"
+      }
+    ]
+  },
+  {
+    "cliente": "Priscila Soares de Lima Xisto",
+    "whatsapp": "5548991101490",
+    "evento": "Aniversário de 1 ano de Gabriel",
+    "data_evento": "13/03/2027",
+    "valor_total": "R$ 1.350,00",
+    "parcelas": [
+      {
+        "numero": 1,
+        "vencimento": "05/08/2026",
+        "valor": "R$ 337,50",
+        "status": "pago"
+      },
+      {
+        "numero": 2,
+        "vencimento": "10/12/2026",
+        "valor": "R$ 337,50",
+        "status": "pendente"
+      },
+      {
+        "numero": 3,
+        "vencimento": "10/01/2027",
+        "valor": "R$ 337,50",
+        "status": "pendente"
+      },
+      {
+        "numero": 4,
+        "vencimento": "10/02/2027",
+        "valor": "R$ 337,50",
+        "status": "pendente"
+      }
+    ]
+  },
+  {
+    "cliente": "Pâmela",
+    "whatsapp": "5555996051366",
+    "evento": "Produção / Edição Baby Films",
+    "data_evento": "15/12/2026",
+    "valor_total": "R$ 600,00",
+    "parcelas": [
+      {
+        "numero": 1,
+        "vencimento": "23/11/2026",
+        "valor": "R$ 600,00",
+        "status": "pendente"
+      }
+    ]
+  }
+]
