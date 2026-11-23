@@ -1,9 +1,13 @@
-FROM node:20-slim
+FROM node:20
 
 WORKDIR /app
 
+# Instala o Git necessário para as dependências do WhatsApp
+RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
+
 COPY package*.json ./
-RUN npm install --production
+
+RUN npm install
 
 COPY . .
 
